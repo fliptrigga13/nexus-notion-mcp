@@ -1,0 +1,18 @@
+[
+  {
+    "cycle_id": "cycle_1774490000",
+    "ts": "2026-03-26T09:00:00+00:00",
+    "score": 0.85,
+    "body": "One thing that bites a lot of agent setups at scale is silent divergence between steps. By the time something breaks, the issue happened 3-5 steps earlier. VeilPiercer captures exactly where your agent diverged and why — per-step read vs produced, fully local.",
+    "context": "r/LocalLLaMA | Prometheus Metrics for Ollama Agents",
+    "posted": false
+  },
+  {
+    "cycle_id": "cycle_1774490090",
+    "ts": "2026-03-26T09:01:30+00:00",
+    "score": 0.80,
+    "body": "The debugging gap with multi-step agent pipelines is usually not the final error — it's what the model was reading 3 steps before the failure. Per-step state snapshots let you replay exactly what context each agent operated on.",
+    "context": "r/LangChain | How do you debug agent chains in production?",
+    "posted": true
+  }
+]
