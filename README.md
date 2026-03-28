@@ -169,3 +169,4 @@ MIT — do whatever you want with it.
 
 *Built on: Ollama · Python · Qwen3 · Phi-4 · Llama · Notion MCP*  
 *SINGLE-Clarity architecture · March 2026*
+
